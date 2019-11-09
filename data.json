@@ -81,6 +81,56 @@
           "value": "Mobile"
         }
       ]
+    },
+    {
+      "id": "user_id_3",
+      "data": [
+        {
+          "id": "firstName",
+          "value": "Joey"
+        },
+        {
+          "id": "lastName",
+          "value": "Clarke"
+        },
+        {
+          "id": "dateOfBirth",
+          "value": "07-11-1996"
+        },
+        {
+          "id": "designation",
+          "value": "Manager"
+        },
+        {
+          "id": "department",
+          "value": "Logistics"
+        }
+      ]
+    },
+    {
+      "id": "user_id_4",
+      "data": [
+        {
+          "id": "firstName",
+          "value": "Alexa"
+        },
+        {
+          "id": "lastName",
+          "value": "Court"
+        },
+        {
+          "id": "dateOfBirth",
+          "value": "04-08-1989"
+        },
+        {
+          "id": "designation",
+          "value": "Admin"
+        },
+        {
+          "id": "department",
+          "value": "Finance"
+        }
+      ]
     }
   ]
 }
