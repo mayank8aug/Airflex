@@ -39,10 +39,7 @@
           "id": "firstName",
           "value": "John"
         },
-        {
-          "id": "lastName",
-          "value": "Smith"
-        },
+   
         {
           "id": "dateOfBirth",
           "value": "07-11-1992"
